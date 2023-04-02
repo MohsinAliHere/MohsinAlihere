@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Mohsin Ali Khan<br>Front-End Developer<br>About Me<br>I am a Bachelor of Science in Computer Science (BSCS) student with a passion for front-end development. I am currently in progress of my degree and have gained knowledge and experience in web development using HTML, CSS, and JavaScript. I have a keen eye for design and enjoy creating visually appealing and user-friendly websites. I am enthusiastic about exploring new technologies and frameworks to enhance my skills and stay up-to-date with industry trends.<br><br>Skills<br>HTML5<br>CSS3<br>JavaScript<br>React Js
 
 
