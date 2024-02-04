@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali Khan</h1>
-<h3 align="center">A passionate Frontend developer/React Js/Mern Stack from Pakistan</h3>
+<h3 align="center">A passionate Frontend/React Js/Mern Stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **E - commerce**
 
