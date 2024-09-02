@@ -81,13 +81,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohsinalihere/mohsinalihere/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
 ###
 
 
